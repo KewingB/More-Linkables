@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cabinets -->
+
+  <ImprovedCabinet.label>Caisse à outils amélioré</ImprovedCabinet.label>
+  <ImprovedCabinet.description>Construit une version améliorée de la caisse à outils qui confère un bonus de vitesse plus important par rapport à la caisse à outils par défaut.</ImprovedCabinet.description>
+
+  <MechanicCabinet.label>Caisse à outils mécanique</MechanicCabinet.label>
+  <MechanicCabinet.description>Construit une caisse à outils mécanique bien garni offrant un bonus de vitesse encore plus important.</MechanicCabinet.description>
+
+  <ScientistCabinet.label>Caisse à outils scientifique</ScientistCabinet.label>
+  <ScientistCabinet.description>Construit une version très avancée de la caisse à outils, elle nécessite de l'énergie et donne un bonus de vitesse absurde, elle peut également augmenter légèrement votre vitesse de recherche.</ScientistCabinet.description>
+
+  <!-- Hospital -->
+
+  <SurgicalLamp.label>Lampe chirurgicale</SurgicalLamp.label>
+  <SurgicalLamp.description>Construisez des lampes chirurgicales qui réduisent les erreurs de vos médecins quand elles sont placées à côté de lits d'hôpitaux.</SurgicalLamp.description>
+
+  <SurgicalInstruments.label>Instruments chirurgicaux</SurgicalInstruments.label>
+  <SurgicalInstruments.description>Construit des instruments chirurgicaux qui améliorent la qualité du traitement de votre médecin lorsqu'ils sont placés à côté de lits d'hôpitaux.</SurgicalInstruments.description>
+
+  <!-- Advanced Multi Analyzer -->
+
+  <AdvancedMultiAnalyzer.label>Multi-Analyseur Avancé</AdvancedMultiAnalyzer.label>
+  <AdvancedMultiAnalyzer.description>Construit une version améliorée du Multi-Analyseur qui accélérera encore plus votre recherche.</AdvancedMultiAnalyzer.description>
+
+</LanguageData>

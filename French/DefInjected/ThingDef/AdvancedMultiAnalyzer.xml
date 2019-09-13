@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedMultiAnalyzer.label>Multi-Analyseur Avancé</AdvancedMultiAnalyzer.label>
+  <AdvancedMultiAnalyzer.description>Augmente considérablement la vitesse de recherche lorsqu'il est placé près d'un poste de recherche.\nLe poste de recherche ne peut être connecté qu’à un seul Multi-Analyseur Avancé, mais peut toujours être connecté au Multi-Analyseur normal.</AdvancedMultiAnalyzer.description>
+
+</LanguageData>

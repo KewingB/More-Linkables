@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Improved Cabinet -->
+
+  <ToolCabinetA.label>Caisse à outils améliorée</ToolCabinetA.label>
+  <ToolCabinetA.description>Augmente la vitesse de travail lorsqu'il est placé près d'un établi.\nLes établis ne peut être connectés qu’à une seule caisse à outils améliorée, mais peuvent toujours être connectés à d’autres types de caisses à outils.</ToolCabinetA.description>
+
+  <!-- Mechanic's Cabinet -->
+
+  <ToolCabinetB.label>Caisse à outils mécanique</ToolCabinetB.label>
+  <ToolCabinetB.description>Augmente considérablement la vitesse de travail lorsqu'il est placé près d'un établi.\nLes établis ne peut être connectés qu’à une seule caisse à outils mécanique, mais peuvent toujours être connectés à d’autres types de caisses à outils.</ToolCabinetB.description>
+
+  <!-- Scienstist's Cabinet -->
+
+  <ToolCabinetC.label>Caisse à outils scientifique</ToolCabinetC.label>
+  <ToolCabinetC.description>Augmente considérablement la vitesse de travail lorsqu'il est placé près d'un établi et légèrement la vitesse de recherche lorsqu'il est placé près d'un poste de recherche.\nLes établis et les postes de recherche ne peuvent être connectés qu’à une seule caisse à outils scientifique, mais peuvent toujours être connectés à d’autres types de caisses à outils.</ToolCabinetC.description>
+
+  <!-- Kitchen Cupboard -->
+
+  <KitchenCupboard.label>Plan de travail de cuisine</KitchenCupboard.label>
+  <KitchenCupboard.description>Augmente la vitesse de cuisson et de dépeçage lorsqu'il est placé près d'une table de cuisson / dépeçage.\nDeux plans de travail au maximum peuvent être connectées à un établi.</KitchenCupboard.description>
+
+</LanguageData>

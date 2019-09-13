@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surgical Lamp -->
+
+  <SurgicalLamp.label>Lampe chirurgicale</SurgicalLamp.label>
+  <SurgicalLamp.description>Augmente les chances de succès de l'opération et accélère l'immunité lorsqu'elle est placée juste à côté d'un lit d'hôpital. Ne fonctionne que pour les lits d'hôpitaux - les lits normaux n'en bénéficieront pas. Placer plus d'une lampe chirurgicale au même lit n'aura aucun effet.</SurgicalLamp.description>
+
+  <!-- Surgical Instruments -->
+
+  <SurgicalInstruments.label>Instruments chirurgicaux</SurgicalInstruments.label>
+  <SurgicalInstruments.description>Augmente la qualité des soins médicaux et accélère l'immunité lorsqu'elle est placée juste à côté d'un lit d'hôpital. Ne fonctionne que pour les lits d'hôpitaux - les lits normaux n'en bénéficieront pas. Placer plusieurs instruments chirurgicaux sur le même lit n'aura aucun effet.</SurgicalInstruments.description>
+
+</LanguageData>
